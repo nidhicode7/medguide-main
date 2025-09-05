@@ -1,35 +1,46 @@
 
 # 🩺 MedGuide
 
-MedGuide is a **Streamlit web app** that predicts diseases based on symptoms, provides medical details, and recommends doctors.
+**MedGuide** is an AI-powered **Streamlit web application** that predicts possible diseases based on user-input symptoms, fetches reliable medical details, and suggests relevant doctors.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-* Disease prediction using ML
-* Medical info from Wikipedia
-* Doctor recommendations
-* Simple and clean UI
+✅ **Disease Prediction** – Uses ML models to predict possible illnesses based on symptoms
+✅ **Medical Information** – Fetches summarized details from **Wikipedia**
+✅ **Doctor Recommendations** – Suggests specialized doctors for further consultation
+✅ **Simple & Clean UI** – Built with **Streamlit** for an easy and smooth experience
+✅ **Cross-Platform** – Works seamlessly on **web & mobile browsers**
 
 ---
 
-## ⚙️ How to Run
+## 🛠️ Tech Stack
+
+* **Frontend:** Streamlit
+* **Backend:** Python (Flask APIs optional if extended)
+* **ML Models:** Scikit-learn / Custom trained models
+* **Data Source:** Wikipedia API, curated doctor dataset
+* **Deployment:** Streamlit Cloud
+
+---
+
+## ⚙️ Installation & Usage
 
 ```bash
-# Clone the repo
+# 1️⃣ Clone the repo
 git clone https://github.com/your-username/MedGuide.git
 cd MedGuide
 
-# Create virtual environment
+# 2️⃣ Create virtual environment
 python3 -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
-# Install requirements
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+# 4️⃣ Run the app
 streamlit run app1.py
 ```
 
@@ -37,5 +48,9 @@ streamlit run app1.py
 
 ## 🌐 Live Demo
 
-[Open MedGuide](https://officialmedguide.streamlit.app)
+🚀 Try it here: [MedGuide Live](https://officialmedguide.streamlit.app)
+
+
+
+
 
