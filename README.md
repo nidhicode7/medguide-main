@@ -8,9 +8,13 @@
 ## ✨ Features
 
 ✅ **Disease Prediction** – Uses ML models to predict possible illnesses based on symptoms
+
 ✅ **Medical Information** – Fetches summarized details from **Wikipedia**
+
 ✅ **Doctor Recommendations** – Suggests specialized doctors for further consultation
+
 ✅ **Simple & Clean UI** – Built with **Streamlit** for an easy and smooth experience
+
 ✅ **Cross-Platform** – Works seamlessly on **web & mobile browsers**
 
 ---
